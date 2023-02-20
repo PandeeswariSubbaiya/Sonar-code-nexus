@@ -5,7 +5,7 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.5</version>
-	<name>my-Sonar</name>
+	<name>Demo2</name>
 	
 	<!-- Demo on Github Webhooks-->
 
